@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data analysis 
 - 🌱 I’m currently learning data analytics
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me : over my cell phone +971 561002434 , or by emailing to ahmeelkhouly@gmail.com
+- 📫 How to reach me : over my cell phone +971 561692434 , or by emailing to ahmeelkhouly@gmail.com
 
 <!---
 ahmeelkhouly/ahmeelkhouly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
